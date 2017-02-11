@@ -8,6 +8,10 @@ The 112 national essential medicine lists included in the analysis were obtained
 Citation
 --------
 
+### Dataset
+Kamerman PR, Wadley AL, Davis KD, Hietaharju A, Jain P, Kopf A, Meyer A-C, Raja SN, Rice ASC, Smith BH, Treede R-D, Wiffen PJ. Data and analysis scripts: Inclusion of medicines to treat neuropathic pain on national essential medicines lists. DOI: [10.6084/m9.figshare.4644412](//dx.doi.org/10.6084/m9.figshare.4644412)
+
+### Manuscript
 Kamerman PR, Wadley AL, Davis KD, Hietaharju A, Jain P, Kopf A, Meyer A-C, Raja SN, Rice ASC, Smith BH, Treede R-D, Wiffen PJ. World Health Organization essential medicines lists: where are the drugs to treat neuropathic pain? *PAIN* **156**:793–797, 2015. DOI: [10.1097/01.j.pain.0000460356.94374.a1](//dx.doi.org/10.1097/01.j.pain.0000460356.94374.a1)
 
 Licenses
