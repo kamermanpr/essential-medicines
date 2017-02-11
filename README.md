@@ -5,14 +5,10 @@ This repo contains the clean [data file](./data/2015-neml-data.csv) containing i
 
 The 112 national essential medicine lists included in the analysis were obtained from the [WHO](http://www.who.int/selection_medicines/country_lists/en/). Copies of the documents can be located [here](https://www.dropbox.com/sh/b9ava7m6bkoxqsz/AAAOjZVK4Gqda9E7a6QCji6Ga?dl=0).
 
-------------------------------------------------------------------------
-
 Citation
 --------
 
 Kamerman PR, Wadley AL, Davis KD, Hietaharju A, Jain P, Kopf A, Meyer A-C, Raja SN, Rice ASC, Smith BH, Treede R-D, Wiffen PJ. World Health Organization essential medicines lists: where are the drugs to treat neuropathic pain? *PAIN* **156**:793–797, 2015. DOI: [10.1097/01.j.pain.0000460356.94374.a1](//dx.doi.org/10.1097/01.j.pain.0000460356.94374.a1)
-
-------------------------------------------------------------------------
 
 Licenses
 --------
@@ -34,8 +30,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-------------------------------------------------------------------------
 
 Codebook
 --------
@@ -128,8 +122,6 @@ Codebook
 </tr>
 </tbody>
 </table>
-
-------------------------------------------------------------------------
 
 Extra notes recorded during data extraction
 -------------------------------------------
